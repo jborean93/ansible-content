@@ -1,0 +1,5 @@
+build/
+node_modules/
+mermaid-filter.err
+package-lock.json
+package.json
