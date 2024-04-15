@@ -3,6 +3,8 @@ This repo will store various blog posts related to Ansible.
 
 + [MakingTheDoubleHop](./MakingTheDoubleHop/MakingTheDoubleHop.md) - How to work around credential delegation in Windows
 
+See https://github.com/jborean93/ansible-content/discussions/1 for a running list of topics I am hoping to cover.
+
 ## Rendering Content
 Rendering the docx required the [mermaid-filter](https://github.com/raghur/mermaid-filter) package to render the mermaid graphs.
 
