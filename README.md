@@ -2,6 +2,7 @@
 This repo will store various blog posts related to Ansible.
 
 + [MakingTheDoubleHop](./MakingTheDoubleHop/MakingTheDoubleHop.md) - How to work around credential delegation in Windows
++ [KerberosDelegation - Part 1 Unconstrained](./KerberosDelegation/KerberosDelegation%20-%20Part%201%20Unconstrained.md) - Kerberos Unconstrained Delegation
 
 See https://github.com/jborean93/ansible-content/discussions/1 for a running list of topics I am hoping to cover.
 
